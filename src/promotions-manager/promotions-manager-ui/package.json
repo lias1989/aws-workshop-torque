@@ -39,7 +39,7 @@
     "expect": "^23.6.0",
     "jest-junit": "^5.2.0",
     "jsdom": "^13.2.0",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "react-addons-test-utils": "^15.6.2",
     "redux-immutable-state-invariant": "^2.1.0",
     "sinon": "^7.5.0"
